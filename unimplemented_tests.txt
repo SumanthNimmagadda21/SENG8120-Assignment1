@@ -1,0 +1,7 @@
+Unimplemented Test Cases:
+
+1. Floating-point input handling (e.g., 2.5 3 4)
+2. Missing input parameters (e.g., only two arguments)
+3. Very large numbers (beyond shell integer limits)
+4. Input as environment variables or via user prompt
+5. Allowing optional flags (e.g., --help, --debug)
