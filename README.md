@@ -1,6 +1,6 @@
 # Assignment 1: Volume Calculator (TDD with Bash)
 
-## 🧠 Description
+## Description
 
 This script calculates the volume of a rectangular prism using the formula:
 
@@ -12,7 +12,7 @@ This project was developed using a **Test Driven Development (TDD)** approach.
 
 ---
 
-## 📁 Files
+## Files
 
 - `calculate_volume.sh` - Main script for calculating volume
 - `test_calculate_volume.sh` - Script containing unit tests
@@ -21,7 +21,7 @@ This project was developed using a **Test Driven Development (TDD)** approach.
 
 ---
 
-## 🛠️ Usage
+## Usage
 
 1. Make the scripts executable:
    ```bash
@@ -35,7 +35,7 @@ This project was developed using a **Test Driven Development (TDD)** approach.
 
 ---
 
-## ✅ TDD Process
+## TDD Process
 
 1. **Wrote failing tests** for expected behavior.
 2. **Implemented minimal code** in `calculate_volume.sh` to make tests pass.
@@ -44,11 +44,11 @@ This project was developed using a **Test Driven Development (TDD)** approach.
 
 ---
 
-## 🧪 Sample Tests
+##  Sample Tests
 
-- ✅ `calculate_volume 2 3 4` → `24`
-- ✅ Zero height → `0`
-- ✅ Large dimensions → `1000000`
-- ❌ Negative or non-numeric values → Should error
+-  `calculate_volume 2 3 4` → `24`
+- Zero height → `0`
+-  Large dimensions → `1000000`
+-  Negative or non-numeric values → Should error
 
 
